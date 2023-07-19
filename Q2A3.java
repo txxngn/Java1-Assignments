@@ -1,5 +1,5 @@
 package A3;
-
+//Q2A3
 import java.util.Scanner;
 public class Q2A3 {
     public static void main (String [] args){
