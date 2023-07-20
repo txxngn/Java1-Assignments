@@ -5,7 +5,7 @@ import java.lang.Math;
 public class Q1A3 {
     public static void main (String [] args){
         Scanner input = new Scanner (System.in);
-
+    //upload file 20/07/23
         //input
         System.out.println("Enter the manufacturing cost: ");
         double manuf_cost = input.nextInt();
