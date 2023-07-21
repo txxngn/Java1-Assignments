@@ -1,6 +1,7 @@
 package A4;
 
 import java.util.Scanner;
+//upload 21/07
 
 public class Q2A4 {
     public static void main (String [] args){
